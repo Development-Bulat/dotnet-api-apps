@@ -1,0 +1,6 @@
+@Ar_Card_Connect_Api_HostAddress = http://localhost:5255
+
+GET {{Ar_Card_Connect_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
